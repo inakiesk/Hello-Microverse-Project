@@ -1,0 +1,5 @@
+#node_modules file ignored
+node_modules
+
+#test.md filed ignored
+test.md
